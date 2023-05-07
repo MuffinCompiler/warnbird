@@ -1,6 +1,7 @@
+# Start file
+
 from client import WarnBirdClientConfig, WarnBirdClient
 
-# Start file
 
 # Parse args to create client with
 

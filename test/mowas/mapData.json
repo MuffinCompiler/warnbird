@@ -1,0 +1,68 @@
+[
+  {
+    "id": "mow.DE-NW-EU-SE091-20210823-109-000",
+    "version": 1,
+    "startDate": "2021-11-09T15:17:17+01:00",
+    "severity": "Minor",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "+++ Betretungsverbot Bergschadensgebiet Stadt Mechernich +++"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-059"
+    }
+  },
+  {
+    "id": "mow.DE-HH-HH-SE033-20230417-33-000",
+    "version": 5,
+    "startDate": "2023-04-17T19:56:45+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Warnung vor Kontakt mit Wasser der Bille - Hamburg, Rothenburgsort, Bille bis Mündung in die Elbe"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-078"
+    }
+  },
+  {
+    "id": "mow.DE-BY-KRU-W174-20230421-000",
+    "version": 5,
+    "startDate": "2023-04-21T11:47:12+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Abkochgebot ab Montag, 24.April 2023 - Gemeinde Bibertal (Alle Ortsteile)"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BW-UL-W127-20230504-000",
+    "version": 5,
+    "startDate": "2023-05-04T15:51:20+02:00",
+    "severity": "Minor",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Abkochgebot E.coli-Bakterien im Trinkwasser - Dietenheim Regglisweiler"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-069"
+    }
+  },
+  {
+    "id": "mow.DE-BB-P-SE082-20230507-82-000",
+    "version": 5,
+    "startDate": "2023-05-07T11:55:33+02:00",
+    "expiresDate": "2023-05-07T17:55:33+02:00",
+    "severity": "Minor",
+    "type": "Cancel",
+    "i18nTitle": {
+      "de": "Entwarnung: Geruchsbelästigung durch Brand  - Potsdam OT Fahrland"
+    },
+    "transKeys": {
+      "event": "BBK-EVC-030"
+    }
+  }
+]

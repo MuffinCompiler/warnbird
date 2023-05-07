@@ -1,0 +1,156 @@
+[
+  {
+    "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1683464220000.03ee9270-6a00-4c69-8bb3-e400183dca69.MUL",
+    "version": 5,
+    "startDate": "2023-05-07T14:57:00+02:00",
+    "expiresDate": "2023-05-07T16:00:00+02:00",
+    "severity": "Moderate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Amtliche WARNUNG vor STARKEM GEWITTER",
+      "en": "Official WARNING of HEAVY THUNDERSTORMS",
+      "es": "AVISO oficial de TORMENTA FUERTE",
+      "fr": "ALERTE officielle INTEMPÉRIES PRONONCÉES pour FORTS ORAGES"
+    }
+  },
+  {
+    "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1683464280000.2430cb4d-9842-41f1-9f50-106d734dcbc8.MUL",
+    "version": 5,
+    "startDate": "2023-05-07T14:58:00+02:00",
+    "expiresDate": "2023-05-07T15:30:00+02:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Amtliche UNWETTERWARNUNG vor SCHWEREM GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+      "en": "Official SEVERE WEATHER WARNING of SEVERE THUNDERSTORMS with VERY HEAVY RAIN and HAIL",
+      "es": "AVISO oficial de MAL TIEMPO por TORMENTA VIOLENTA con LLUVIA MUY INTENSA y GRANIZO",
+      "fr": "ALERTE officielle aux ORAGES VIOLENTS avec TRÈS FORTES PLUIES et GRÊLE"
+    }
+  },
+  {
+    "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1683464760000.45faeb96-6a59-4c8a-8a89-c7034e56a00d.MUL",
+    "version": 5,
+    "startDate": "2023-05-07T15:06:00+02:00",
+    "expiresDate": "2023-05-07T16:00:00+02:00",
+    "severity": "Severe",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Amtliche UNWETTERWARNUNG vor SCHWEREM GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+      "en": "Official SEVERE WEATHER WARNING of SEVERE THUNDERSTORMS with VERY HEAVY RAIN and HAIL",
+      "es": "AVISO oficial de MAL TIEMPO por TORMENTA VIOLENTA con LLUVIA MUY INTENSA y GRANIZO",
+      "fr": "ALERTE officielle aux ORAGES VIOLENTS avec TRÈS FORTES PLUIES et GRÊLE"
+    }
+  },
+  {
+    "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1683464880000.fab36496-381b-46e5-ae73-cd20c5d10844.MUL",
+    "version": 5,
+    "startDate": "2023-05-07T15:08:00+02:00",
+    "expiresDate": "2023-05-07T16:00:00+02:00",
+    "severity": "Severe",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Amtliche UNWETTERWARNUNG vor SCHWEREM GEWITTER mit HEFTIGEM STARKREGEN und HAGEL",
+      "en": "Official SEVERE WEATHER WARNING of SEVERE THUNDERSTORMS with VERY HEAVY RAIN and HAIL",
+      "es": "AVISO oficial de MAL TIEMPO por TORMENTA VIOLENTA con LLUVIA MUY INTENSA y GRANIZO",
+      "fr": "ALERTE officielle aux ORAGES VIOLENTS avec TRÈS FORTES PLUIES et GRÊLE"
+    }
+  },
+  {
+    "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1683465000000.a7c7ea83-ae18-4d8e-a32c-d0218689b3ee.MUL",
+    "version": 5,
+    "startDate": "2023-05-07T15:10:00+02:00",
+    "expiresDate": "2023-05-07T16:00:00+02:00",
+    "severity": "Moderate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Amtliche WARNUNG vor STARKEM GEWITTER",
+      "en": "Official WARNING of HEAVY THUNDERSTORMS",
+      "es": "AVISO oficial de TORMENTA FUERTE",
+      "fr": "ALERTE officielle INTEMPÉRIES PRONONCÉES pour FORTS ORAGES"
+    }
+  },
+  {
+    "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1683465000000.162d3ef4-f67f-462c-824d-3c0725a3c053.MUL",
+    "version": 5,
+    "startDate": "2023-05-07T15:10:00+02:00",
+    "expiresDate": "2023-05-07T16:30:00+02:00",
+    "severity": "Moderate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Amtliche WARNUNG vor STARKEM GEWITTER",
+      "en": "Official WARNING of HEAVY THUNDERSTORMS",
+      "es": "AVISO oficial de TORMENTA FUERTE",
+      "fr": "ALERTE officielle INTEMPÉRIES PRONONCÉES pour FORTS ORAGES"
+    }
+  },
+  {
+    "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1683465180000.06826408-e4b7-41ad-bc1a-be44f67be854.MUL",
+    "version": 5,
+    "startDate": "2023-05-07T15:13:00+02:00",
+    "expiresDate": "2023-05-07T16:00:00+02:00",
+    "severity": "Moderate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Amtliche WARNUNG vor STARKEM GEWITTER",
+      "en": "Official WARNING of HEAVY THUNDERSTORMS",
+      "es": "AVISO oficial de TORMENTA FUERTE",
+      "fr": "ALERTE officielle INTEMPÉRIES PRONONCÉES pour FORTS ORAGES"
+    }
+  },
+  {
+    "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1683465240000.30edabc6-6503-4efe-9341-4949af20ac52.MUL",
+    "version": 5,
+    "startDate": "2023-05-07T15:14:00+02:00",
+    "expiresDate": "2023-05-07T16:30:00+02:00",
+    "severity": "Moderate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Amtliche WARNUNG vor STARKEM GEWITTER",
+      "en": "Official WARNING of HEAVY THUNDERSTORMS",
+      "es": "AVISO oficial de TORMENTA FUERTE",
+      "fr": "ALERTE officielle INTEMPÉRIES PRONONCÉES pour FORTS ORAGES"
+    }
+  },
+  {
+    "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1683465240000.b5d2ccbb-280d-4299-9aac-85dbd941f6eb.MUL",
+    "version": 5,
+    "startDate": "2023-05-07T15:14:00+02:00",
+    "expiresDate": "2023-05-07T15:30:00+02:00",
+    "severity": "Moderate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Amtliche WARNUNG vor STARKEM GEWITTER",
+      "en": "Official WARNING of HEAVY THUNDERSTORMS",
+      "es": "AVISO oficial de TORMENTA FUERTE",
+      "fr": "ALERTE officielle INTEMPÉRIES PRONONCÉES pour FORTS ORAGES"
+    }
+  },
+  {
+    "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1683465420000.0e166fbd-e4c5-48fe-ab39-de743e1b035c.MUL",
+    "version": 5,
+    "startDate": "2023-05-07T15:17:00+02:00",
+    "expiresDate": "2023-05-07T16:30:00+02:00",
+    "severity": "Moderate",
+    "type": "Update",
+    "i18nTitle": {
+      "de": "Amtliche WARNUNG vor STARKEM GEWITTER",
+      "en": "Official WARNING of HEAVY THUNDERSTORMS",
+      "es": "AVISO oficial de TORMENTA FUERTE",
+      "fr": "ALERTE officielle INTEMPÉRIES PRONONCÉES pour FORTS ORAGES"
+    }
+  },
+  {
+    "id": "dwdmap.2.49.0.0.276.0.DWD.PVW.1683465600000.92428729-d754-4733-98ff-538b648a989b.MUL",
+    "version": 5,
+    "startDate": "2023-05-07T15:20:00+02:00",
+    "expiresDate": "2023-05-07T16:30:00+02:00",
+    "severity": "Moderate",
+    "type": "Alert",
+    "i18nTitle": {
+      "de": "Amtliche WARNUNG vor STARKEM GEWITTER",
+      "en": "Official WARNING of HEAVY THUNDERSTORMS",
+      "es": "AVISO oficial de TORMENTA FUERTE",
+      "fr": "ALERTE officielle INTEMPÉRIES PRONONCÉES pour FORTS ORAGES"
+    }
+  }
+]
